@@ -6,7 +6,7 @@ export const Skill = (props) => {
         <div className={style.skill}>
             <div className={style.icon}></div>
             <h3>{props.title}</h3>
-            <span className={style.description}>
+            <span>
                 {`${props.description} ${props.title}`}
             </span>
         </div>

@@ -1,18 +1,18 @@
-.skillsBlock {
+.projectsBlock {
     min-height: 100vh;
-    background-color: #abffe3;
+    background-color: coral;
 }
 
-.skillsContainer {
+.projectsContainer {
     flex-direction: column;
     justify-content: flex-start;
 }
 
 .title {
-background-color: chartreuse;
+    background-color: #ceefaa;
 }
 
-.skills {
+.projects {
     border: 1px solid;
     width: 100%;
     display: flex;

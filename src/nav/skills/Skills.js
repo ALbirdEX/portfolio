@@ -11,7 +11,9 @@ export const Skills = () => {
                 <div className={style.skills}>
                     <Skill title={"JS"} description={"Я  тфэыалп дэЛдcvbsfg  adfgadf g 5165191 arg asлатпдт ы"}/>
                     <Skill title={"TS"} description={"Я дяьчтд  дэЛдлатпдт ы"}/>
+                    <Skill title={"CSS"} description={"Я дяьчтд тфэыалп  ы"}/>
                     <Skill title={"React"} description={"Я дяьчтд тфэыалп  ы"}/>
+                    <Skill title={"Redux"} description={"Я дяьчтд тфэыалп  ы"}/>
                 </div>
             </div>
         </div>
